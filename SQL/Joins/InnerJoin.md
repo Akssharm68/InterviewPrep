@@ -10,3 +10,5 @@ INNER JOIN:
 	FROM table1
 	INNER JOIN table2
 	ON table1.commonfield = table2.commonfield;
+
+![image](https://user-images.githubusercontent.com/114629519/199333474-02d0cbef-02c6-45bb-b0ca-4fadda1b358f.png)
