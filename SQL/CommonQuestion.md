@@ -164,3 +164,6 @@ DATE FUNCTIONS:
 	
 There are many types of functions such as Aggregate Functions, Date Functions, String Functions, Mathematical functions, etc.
 
+![image](https://user-images.githubusercontent.com/114629519/204878504-43184c0c-26c6-4b18-845a-dbb9c24cb7ca.png)
+
+
